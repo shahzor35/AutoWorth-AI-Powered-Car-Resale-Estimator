@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>AutoWorth - AI Car Price Estimator</title>
+  <link rel="stylesheet" href="style.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+  <canvas id="backgroundCanvas"></canvas>
+
+  <!-- Hero Section -->
+  <header class="hero fade-in">
+    <div class="hero-content slide-in-left">
+      <div class="hero-content">
+        <div class="hero-text">
+          <h1>
+            <span style="color: gold;">AutoWorth</span><br />
+            <strong>Smarter Car Pricing with AI Precision</strong><br />
+          </h1>
+        </div>
+        <div class="car-icon">
+          <img src="images/car.png" alt="Car Icon" />
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <!-- Form Section -->
+  <section class="form-section pop-in">
+    <h2>🚀 Instantly Evaluate Your Car’s Market Value</h2>
+
+    <!-- AI Benefits Section -->
+    <section class="ai-section pop-in">
+      <h3 class="ai-heading">🤖 Why Use AI?</h3>
+      <div class="ai-message">
+        <p>🔍 <strong>Forget assumptions.</strong> With AI, your pricing is backed by real data — fast, fair, and unbiased.</p>
+        <p>🧠 From visual damage to engine type, every factor counts. <strong>Trust intelligent prediction, not guesswork.</strong></p>
+      </div>
+    </section>
+
+
+    <!-- Form -->
+    <form id="predictForm" enctype="multipart/form-data" method="POST">
+      <div class="form-grid">
+        <!-- Input Fields -->
+        <div class="form-group animate">
+          <label for="brand">Brand</label>
+          <input type="text" id="brand" name="brand" required autocomplete="off" />
+        </div>
+        <div class="form-group animate">
+          <label for="model">Model</label>
+          <input type="text" id="model" name="model" required autocomplete="off" />
+        </div>
+        <div class="form-group animate">
+          <label for="year">Year of Manufacture</label>
+          <input type="number" id="year" name="year" required />
+        </div>
+        <div class="form-group animate">
+          <label for="kmDriven">Kilometres Driven</label>
+          <input type="number" id="kmDriven" name="kmDriven" required />
+        </div>
+        <div class="form-group animate">
+          <label for="fuel">Car Fuel</label>
+          <select id="fuel" name="fuel" required>
+            <option value="" disabled selected>Select fuel type</option>
+            <option>Petrol</option>
+            <option>Diesel</option>
+            <option>Electric</option>
+            <option>CNG</option>
+          </select>
+        </div>
+        <div class="form-group animate">
+          <label for="transmission">Transmission</label>
+          <select id="transmission" name="transmission" required>
+            <option value="" disabled selected>Select transmission</option>
+            <option>Manual</option>
+            <option>Automatic</option>
+          </select>
+        </div>
+        <div class="form-group animate">
+          <label for="owners">No of Owners</label>
+          <select id="owners" name="owners" required>
+            <option value="" disabled selected>Select</option>
+            <option>1</option>
+            <option>2</option>
+            <option>3</option>
+            <option>4+</option>
+          </select>
+        </div>
+        <div class="form-group animate">
+          <label for="color">Colour</label>
+          <input type="text" id="color" name="color" required autocomplete="off" />
+        </div>
+
+        <!-- Image Uploads -->
+        <div class="form-group animate">
+          <label for="frontImage">Front Image</label>
+          <input type="file" id="frontImage" name="frontImage" accept="image/*" required />
+          <img id="previewFront" class="image-preview" />
+        </div>
+        <div class="form-group animate">
+          <label for="backImage">Back Image</label>
+          <input type="file" id="backImage" name="backImage" accept="image/*" required />
+          <img id="previewBack" class="image-preview" />
+        </div>
+        <div class="form-group animate">
+          <label for="leftImage">Left Image</label>
+          <input type="file" id="leftImage" name="leftImage" accept="image/*" required />
+          <img id="previewLeft" class="image-preview" />
+        </div>
+        <div class="form-group animate">
+          <label for="rightImage">Right Image</label>
+          <input type="file" id="rightImage" name="rightImage" accept="image/*" required />
+          <img id="previewRight" class="image-preview" />
+        </div>
+      </div>
+
+      <button type="submit" class="glow-button">Predict</button>
+    </form>
+
+    <!-- Result Section -->
+    <div id="result" class="result-box pop-in">
+      <h3>Predicted Price:  <span id="price">--</span></h3>
+      <div id="summary" class="damage-summary" style="margin-top: 10px; line-height: 1.6;"></div>
+    </div>
+
+    <!-- Loader -->
+    <div class="loader-wrapper" id="loader">
+      <div class="loader"></div>
+      <span class="loader-text">Predicting...</span>
+    </div>
+  </section>
+
+  <script src="script.js"></script>
+</body>
+</html>
