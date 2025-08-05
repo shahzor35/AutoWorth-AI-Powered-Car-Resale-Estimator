@@ -1,0 +1,1737 @@
+ID,Brand,Model,Year,kilometers Driven,Fuel Type,Transmission,Price,Number of Owners,Colour,Front Image,Back Image,Left Image,Right Image,FrontDamage,BackDamage,LeftDamage,RightDamage,Damage Summary
+2013001,Tata Motors,Nexon,2017,30000,Petrol,Manual,650000,1,Red,2013001_1,2013001_2,2013001_3,2013001_4,no_damage,no_damage,no_damage,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: No_damage
+"
+2013002,Tata Motors,Nexon,2018,79000,Diesel,Automatic,799000,1,Red,2013002_1,2013002_2,2013002_3,2013002_4,no_damage,dent,dent,dent,"
+Damage Summary:
+- Front: No_damage
+- Back: Dent
+- Left: Dent
+- Right: Dent
+"
+2013003,Tata Motors,Nexon,2017,49317,Petrol,Automatic,800000,1,Blue,2013003_1,2013003_2,2013003_3,2013003_4,scratch,dent,no_damage,no_damage,"
+Damage Summary:
+- Front: Scratch
+- Back: Dent
+- Left: No_damage
+- Right: No_damage
+"
+2013004,Tata Motors,Nexon,2018,100000,Petrol,Manual,790000,1,White,2013004_1,2013004_2,2013004_3,2013004_4,no_damage,dent,scratch,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: Dent
+- Left: Scratch
+- Right: No_damage
+"
+2013005,Tata Motors,Nexon,2018,76000,Petrol,Manual,650000,1,Black,2013005_1,2013005_2,2013005_3,2013005_4,scratch,no_damage,dent,dent,"
+Damage Summary:
+- Front: Scratch
+- Back: No_damage
+- Left: Dent
+- Right: Dent
+"
+2013006,Tata Motors,Nexon,2018,65000,Diesel,Automatic,950000,1,Blue,2013006_1,2013006_2,2013006_3,2013006_4,dent,no_damage,no_damage,scratch,"
+Damage Summary:
+- Front: Dent
+- Back: No_damage
+- Left: No_damage
+- Right: Scratch
+"
+2013007,Tata Motors,Nexon,2018,42000,Diesel,Automatic,895000,1,Orange,2013007_1,2013007_2,2013007_3,2013007_4,no_damage,no_damage,dent,scratch,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: Dent
+- Right: Scratch
+"
+2013008,Tata Motors,Nexon,2018,61000,Petrol,Automatic,825000,1,Blue,2013008_1,2013008_2,2013008_3,2013008_4,dent,dent,no_damage,no_damage,"
+Damage Summary:
+- Front: Dent
+- Back: Dent
+- Left: No_damage
+- Right: No_damage
+"
+2013009,Tata Motors,Nexon,2018,75000,Diesel,Automatic,845000,1,Blue,2013009_1,2013009_2,2013009_3,2013009_4,dent,dent,no_damage,no_damage,"
+Damage Summary:
+- Front: Dent
+- Back: Dent
+- Left: No_damage
+- Right: No_damage
+"
+20130010,Tata Motors,Nexon,2019,61998,Petrol,Automatic,800000,1,Blue,20130010_1,20130010_2,20130010_3,20130010_4,no_damage,no_damage,no_damage,scratch,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: Scratch
+"
+20130011,Tata Motors,Nexon,2019,73000,Diesel,Automatic,875000,1,White,20130011_1,20130011_2,20130011_3,20130011_4,dent,no_damage,no_damage,dent,"
+Damage Summary:
+- Front: Dent
+- Back: No_damage
+- Left: No_damage
+- Right: Dent
+"
+20130012,Tata Motors,Nexon,2019,49578,Petrol,Manual,775000,1,Red,20130012_1,20130012_2,20130012_3,20130012_4,no_damage,no_damage,scratch,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: Scratch
+- Right: No_damage
+"
+20130013,Tata Motors,Nexon,2019,149999,Diesel,Automatic,689999,1,Blue,20130013_1,20130013_2,20130013_3,20130013_4,no_damage,no_damage,scratch,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: Scratch
+- Right: No_damage
+"
+20130014,Tata Motors,Nexon,2019,35000,Petrol,Manual,920000,1,White,20130014_1,20130014_2,20130014_3,20130014_4,no_damage,no_damage,no_damage,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: No_damage
+"
+20130015,Tata Motors,Nexon,2020,26419,Diesel,Automatic,950000,1,Green,20130015_1,20130015_2,20130015_3,20130015_4,no_damage,no_damage,no_damage,dent,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: Dent
+"
+20130016,Tata Motors,Nexon,2020,29000,Petrol,Automatic,975000,1,White,20130016_1,20130016_2,20130016_3,20130016_4,no_damage,no_damage,no_damage,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: No_damage
+"
+20130017,Tata Motors,Nexon,2020,36672,Petrol,Manual,800000,1,White,20130017_1,20130017_2,20130017_3,20130017_4,dent,no_damage,dent,no_damage,"
+Damage Summary:
+- Front: Dent
+- Back: No_damage
+- Left: Dent
+- Right: No_damage
+"
+20130018,Tata Motors,Nexon,2020,63000,Petrol,Automatic,925000,1,Green,20130018_1,20130018_2,20130018_3,20130018_4,no_damage,no_damage,no_damage,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: No_damage
+"
+20130019,Tata Motors,Nexon,2020,54308,Petrol,Automatic,785000,1,Red,20130019_1,20130019_2,20130019_3,20130019_4,no_damage,no_damage,no_damage,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: No_damage
+"
+20130020,Tata Motors,Nexon,2021,64787,Diesel,Automatic,1100000,1,Grey,20130020_1,20130020_2,20130020_3,20130020_4,no_damage,no_damage,no_damage,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: No_damage
+"
+20130021,Tata Motors,Nexon,2021,58533,Diesel,Manual,1050000,1,Black,20130021_1,20130021_2,20130021_3,20130021_4,no_damage,no_damage,no_damage,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: No_damage
+"
+20130022,Tata Motors,Nexon,2021,50000,Petrol,Manual,950000,1,White,20130022_1,20130022_2,20130022_3,20130022_4,no_damage,dent,scratch,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: Dent
+- Left: Scratch
+- Right: No_damage
+"
+20130023,Tata Motors,Nexon,2021,40000,Diesel,Manual,885000,1,Black,20130023_1,20130023_2,20130023_3,20130023_4,no_damage,no_damage,no_damage,scratch,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: Scratch
+"
+20130024,Tata Motors,Nexon,2021,66000,Electric,Manual,990000,1,Blue,20130024_1,20130024_2,20130024_3,20130024_4,scratch,no_damage,no_damage,no_damage,"
+Damage Summary:
+- Front: Scratch
+- Back: No_damage
+- Left: No_damage
+- Right: No_damage
+"
+20130025,Tata Motors,Nexon,2021,76000,Diesel,Manual,975000,1,White,20130025_1,20130025_2,20130025_3,20130025_4,no_damage,no_damage,scratch,scratch,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: Scratch
+- Right: Scratch
+"
+20130026,Tata Motors,Nexon,2021,17000,Petrol,Manual,775000,1,White,20130026_1,20130026_2,20130026_3,20130026_4,no_damage,no_damage,no_damage,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: No_damage
+"
+20130027,Tata Motors,Nexon,2021,77000,Diesel,Manual,980000,1,White,20130027_1,20130027_2,20130027_3,20130027_4,no_damage,no_damage,no_damage,scratch,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: Scratch
+"
+20130028,Tata Motors,Nexon,2022,21601,Petrol,Manual,1171000,1,Red,20130028_1,20130028_2,20130028_3,20130028_4,no_damage,no_damage,dent,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: Dent
+- Right: No_damage
+"
+20130029,Tata Motors,Nexon,2022,40000,Petrol,Manual,1120000,1,Black,20130029_1,20130029_2,20130029_3,20130029_4,no_damage,no_damage,no_damage,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: No_damage
+"
+20130030,Tata Motors,Nexon,2022,36130,Electric,Automatic,1365000,1,Black,20130030_1,20130030_2,20130030_3,20130030_4,no_damage,no_damage,no_damage,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: No_damage
+"
+20130031,Tata Motors,Nexon,2023,26000,Petrol,Manual,1095000,1,Black,20130031_1,20130031_2,20130031_3,20130031_4,no_damage,no_damage,no_damage,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: No_damage
+"
+20130032,Tata Motors,Nexon,2023,11000,Petrol,Automatic,1195000,1,White,20130032_1,20130032_2,20130032_3,20130032_4,no_damage,no_damage,no_damage,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: No_damage
+"
+20130033,Tata Motors,Nexon,2023,49976,Diesel,Manual,1195000,1,White,20130033_1,20130033_2,20130033_3,20130033_4,no_damage,no_damage,no_damage,dent,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: Dent
+"
+20130034,Tata Motors,Nexon,2023,50000,Petrol,Manual,1150000,1,White,20130034_1,20130034_2,20130034_3,20130034_4,no_damage,no_damage,no_damage,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: No_damage
+"
+20130035,Tata Motors,Nexon,2024,2100,Petrol,Manual,1100000,1,White,20130035_1,20130035_2,20130035_3,20130035_4,no_damage,no_damage,no_damage,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: No_damage
+"
+20130036,Tata Motors,Tiago,2017,73000,Petrol,Manual,370000,2,Brown,20130036_1,20130036_2,20130036_3,20130036_4,no_damage,dent,scratch,dent,"
+Damage Summary:
+- Front: No_damage
+- Back: Dent
+- Left: Scratch
+- Right: Dent
+"
+20130037,Tata Motors,Tiago,2017,68412,Petrol,Automatic,430000,1,Red,20130037_1,20130037_2,20130037_3,20130037_4,no_damage,no_damage,no_damage,dent,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: Dent
+"
+20130038,Tata Motors,Tiago,2017,75000,Petrol,Automatic,400000,2,White,20130038_1,20130038_2,20130038_3,20130038_4,no_damage,no_damage,dent,scratch,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: Dent
+- Right: Scratch
+"
+20130039,Tata Motors,Tiago,2017,150000,Diesel,Manual,320000,2,Brown,20130039_1,20130039_2,20130039_3,20130039_4,dent,no_damage,dent,no_damage,"
+Damage Summary:
+- Front: Dent
+- Back: No_damage
+- Left: Dent
+- Right: No_damage
+"
+20130040,Tata Motors,Tiago,2017,50000,Petrol,Manual,400000,1,Brown,20130040_1,20130040_2,20130040_3,20130040_4,no_damage,no_damage,dent,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: Dent
+- Right: No_damage
+"
+20130041,Tata Motors,Tiago,2018,63000,Petrol,Automatic,490000,1,Orange,20130041_1,20130041_2,20130041_3,20130041_4,no_damage,no_damage,scratch,dent,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: Scratch
+- Right: Dent
+"
+20130042,Tata Motors,Tiago,2018,38000,Petrol,Manual,550000,1,Red,20130042_1,20130042_2,20130042_3,20130042_4,no_damage,no_damage,no_damage,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: No_damage
+"
+20130043,Tata Motors,Tiago,2018,89000,Diesel,Manual,435000,2,Orange,20130043_1,20130043_2,20130043_3,20130043_4,no_damage,no_damage,no_damage,dent,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: Dent
+"
+20130044,Tata Motors,Tiago,2018,37000,Petrol,Manual,480000,1,Red,20130044_1,20130044_2,20130044_3,20130044_4,scratch,no_damage,dent,no_damage,"
+Damage Summary:
+- Front: Scratch
+- Back: No_damage
+- Left: Dent
+- Right: No_damage
+"
+20130045,Tata Motors,Tiago,2018,74330,Petrol,Manual,395000,1,Grey,20130045_1,20130045_2,20130045_3,20130045_4,scratch,no_damage,dent,scratch,"
+Damage Summary:
+- Front: Scratch
+- Back: No_damage
+- Left: Dent
+- Right: Scratch
+"
+20130046,Tata Motors,Tiago,2018,80000,Petrol,Manual,441000,1,Brown,20130046_1,20130046_2,20130046_3,20130046_4,no_damage,no_damage,scratch,dent,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: Scratch
+- Right: Dent
+"
+20130047,Tata Motors,Tiago,2018,40000,Petrol,Automatic,499000,1,Red,20130047_1,20130047_2,20130047_3,20130047_4,no_damage,no_damage,no_damage,dent,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: Dent
+"
+20130048,Tata Motors,Tiago,2019,24000,Petrol,Manual,575000,1,Gray,20130048_1,20130048_2,20130048_3,20130048_4,no_damage,no_damage,scratch,dent,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: Scratch
+- Right: Dent
+"
+20130049,Tata Motors,Tiago,2019,54000,Petrol,Manual,575000,1,Orange,20130049_1,20130049_2,20130049_3,20130049_4,no_damage,no_damage,scratch,scratch,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: Scratch
+- Right: Scratch
+"
+20130050,Tata Motors,Tiago,2019,61000,Diesel,Manual,520000,1,Brown,20130050_1,20130050_2,20130050_3,20130050_4,dent,scratch,no_damage,no_damage,"
+Damage Summary:
+- Front: Dent
+- Back: Scratch
+- Left: No_damage
+- Right: No_damage
+"
+20130051,Tata Motors,Tiago,2019,70000,Diesel,Manual,460000,2,Brown,20130051_1,20130051_2,20130051_3,20130051_4,scratch,no_damage,dent,scratch,"
+Damage Summary:
+- Front: Scratch
+- Back: No_damage
+- Left: Dent
+- Right: Scratch
+"
+20130052,Tata Motors,Tiago,2019,48586,Petrol,Manual,450000,1,Brown,20130052_1,20130052_2,20130052_3,20130052_4,no_damage,scratch,no_damage,scratch,"
+Damage Summary:
+- Front: No_damage
+- Back: Scratch
+- Left: No_damage
+- Right: Scratch
+"
+20130053,Tata Motors,Tiago,2020,39650,Petrol,Manual,450000,1,Black,20130053_1,20130053_2,20130053_3,20130053_4,dent,no_damage,dent,scratch,"
+Damage Summary:
+- Front: Dent
+- Back: No_damage
+- Left: Dent
+- Right: Scratch
+"
+20130054,Tata Motors,Tiago,2020,63000,Petrol,Manual,575000,1,Red,20130054_1,20130054_2,20130054_3,20130054_4,no_damage,no_damage,no_damage,dent,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: Dent
+"
+20130055,Tata Motors,Tiago,2021,15000,Petrol,Manual,600000,1,Silver,20130055_1,20130055_2,20130055_3,20130055_4,dent,no_damage,dent,dent,"
+Damage Summary:
+- Front: Dent
+- Back: No_damage
+- Left: Dent
+- Right: Dent
+"
+20130056,Tata Motors,Tiago,2021,92000,Petrol,Manual,510000,1,Silver,20130056_1,20130056_2,20130056_3,20130056_4,no_damage,no_damage,dent,dent,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: Dent
+- Right: Dent
+"
+20130057,Tata Motors,Tiago,2021,69373,Petrol,Manual,515000,1,Grey,20130057_1,20130057_2,20130057_3,20130057_4,no_damage,no_damage,scratch,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: Scratch
+- Right: No_damage
+"
+20130058,Tata Motors,Tiago,2021,75000,Petrol,Manual,480000,1,Yellow,20130058_1,20130058_2,20130058_3,20130058_4,scratch,no_damage,dent,dent,"
+Damage Summary:
+- Front: Scratch
+- Back: No_damage
+- Left: Dent
+- Right: Dent
+"
+20130059,Tata Motors,Tiago,2022,28000,Petrol,Manual,545000,1,White,20130059_1,20130059_2,20130059_3,20130059_4,scratch,no_damage,no_damage,no_damage,"
+Damage Summary:
+- Front: Scratch
+- Back: No_damage
+- Left: No_damage
+- Right: No_damage
+"
+20130060,Tata Motors,Tiago,2022,18000,Petrol,Manual,575000,2,Blue,20130060_1,20130060_2,20130060_3,20130060_4,no_damage,no_damage,no_damage,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: No_damage
+"
+20130061,Tata Motors,Tiago,2022,23000,Petrol,Manual,590000,1,Blue,20130061_1,20130061_2,20130061_3,20130061_4,no_damage,no_damage,scratch,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: Scratch
+- Right: No_damage
+"
+20130062,Tata Motors,Tiago,2023,5749,Petrol,Automatic,695000,1,Red,20130062_1,20130062_2,20130062_3,20130062_4,scratch,no_damage,dent,dent,"
+Damage Summary:
+- Front: Scratch
+- Back: No_damage
+- Left: Dent
+- Right: Dent
+"
+20130063,Tata Motors,Tiago,2023,56044,Electric,Automatic,800000,1,Grey,20130063_1,20130063_2,20130063_3,20130063_4,no_damage,no_damage,dent,dent,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: Dent
+- Right: Dent
+"
+20130064,Tata Motors,Punch,2021,22000,Petrol,Manual,588000,1,White,20130064_1,20130064_2,20130064_3,20130064_4,no_damage,no_damage,scratch,scratch,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: Scratch
+- Right: Scratch
+"
+20130065,Tata Motors,Punch,2021,8000,Petrol,Automatic,790000,1,Blue,20130065_1,20130065_2,20130065_3,20130065_4,no_damage,no_damage,no_damage,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: No_damage
+"
+20130066,Tata Motors,Punch,2021,23000,Petrol,Manual,690000,2,Green,20130066_1,20130066_2,20130066_3,20130066_4,no_damage,no_damage,dent,scratch,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: Dent
+- Right: Scratch
+"
+20130067,Tata Motors,Punch,2021,38000,Petrol,Automatic,625000,1,White,20130067_1,20130067_2,20130067_3,20130067_4,no_damage,no_damage,no_damage,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: No_damage
+"
+20130068,Tata Motors,Punch,2021,30000,Petrol,Manual,650000,1,White,20130068_1,20130068_2,20130068_3,20130068_4,no_damage,dent,scratch,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: Dent
+- Left: Scratch
+- Right: No_damage
+"
+20130069,Tata Motors,Punch,2021,40200,Petrol,Manual,675000,1,Brown,20130069_1,20130069_2,20130069_3,20130069_4,no_damage,no_damage,no_damage,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: No_damage
+"
+20130070,Tata Motors,Punch,2021,27000,Petrol,Manual,625000,1,Light Blue,20130070_1,20130070_2,20130070_3,20130070_4,no_damage,no_damage,scratch,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: Scratch
+- Right: No_damage
+"
+20130071,Tata Motors,Punch,2021,54000,Petrol,Manual,610000,2,Grey,20130071_1,20130071_2,20130071_3,20130071_4,no_damage,scratch,no_damage,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: Scratch
+- Left: No_damage
+- Right: No_damage
+"
+20130072,Tata Motors,Punch,2021,37500,Petrol,Manual,750000,1,Blue,20130072_1,20130072_2,20130072_3,20130072_4,no_damage,no_damage,no_damage,scratch,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: Scratch
+"
+20130073,Tata Motors,Punch,2022,22000,Petrol,Manual,680000,1,Grey,20130073_1,20130073_2,20130073_3,20130073_4,no_damage,no_damage,scratch,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: Scratch
+- Right: No_damage
+"
+20130074,Tata Motors,Punch,2022,22000,Petrol,Manual,781000,1,White,20130074_1,20130074_2,20130074_3,20130074_4,no_damage,no_damage,no_damage,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: No_damage
+"
+20130075,Tata Motors,Punch,2022,38000,Petrol,Manual,535000,1,Grey,20130075_1,20130075_2,20130075_3,20130075_4,no_damage,no_damage,scratch,scratch,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: Scratch
+- Right: Scratch
+"
+20130076,Tata Motors,Punch,2022,70000,Petrol,Manual,550000,1,Grey,20130076_1,20130076_2,20130076_3,20130076_4,no_damage,no_damage,scratch,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: Scratch
+- Right: No_damage
+"
+20130077,Tata Motors,Punch,2022,23800,Petrol,Manual,650000,1,Light Blue,20130077_1,20130077_2,20130077_3,20130077_4,no_damage,no_damage,no_damage,dent,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: Dent
+"
+20130078,Tata Motors,Punch,2022,29000,Petrol,Automatic,775000,1,White,20130078_1,20130078_2,20130078_3,20130078_4,no_damage,no_damage,no_damage,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: No_damage
+"
+20130079,Tata Motors,Punch,2022,30000,Petrol,Manual,650000,1,White,20130079_1,20130079_2,20130079_3,20130079_4,no_damage,dent,no_damage,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: Dent
+- Left: No_damage
+- Right: No_damage
+"
+20130080,Tata Motors,Punch,2022,55000,Petrol,Manual,590000,1,White,20130080_1,20130080_2,20130080_3,20130080_4,no_damage,dent,scratch,scratch,"
+Damage Summary:
+- Front: No_damage
+- Back: Dent
+- Left: Scratch
+- Right: Scratch
+"
+20130081,Tata Motors,Punch,2022,25000,Petrol,Manual,625000,1,White,20130081_1,20130081_2,20130081_3,20130081_4,no_damage,no_damage,scratch,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: Scratch
+- Right: No_damage
+"
+20130082,Tata Motors,Punch,2022,70986,Petrol,Manual,550000,1,White,20130082_1,20130082_2,20130082_3,20130082_4,no_damage,no_damage,dent,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: Dent
+- Right: No_damage
+"
+20130083,Tata Motors,Punch,2022,28000,Petrol,Manual,648000,1,Red,20130083_1,20130083_2,20130083_3,20130083_4,no_damage,no_damage,scratch,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: Scratch
+- Right: No_damage
+"
+20130084,Tata Motors,Punch,2022,22674,Petrol,Automatic,745000,1,Brown,20130084_1,20130084_2,20130084_3,20130084_4,no_damage,no_damage,scratch,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: Scratch
+- Right: No_damage
+"
+20130085,Tata Motors,Punch,2023,10800,Petrol,Manual,790000,1,Grey,20130085_1,20130085_2,20130085_3,20130085_4,no_damage,no_damage,no_damage,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: No_damage
+"
+20130086,Tata Motors,Punch,2023,18000,Petrol,Automatic,888888,1,Tropical Mist,20130086_1,20130086_2,20130086_3,20130086_4,no_damage,dent,no_damage,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: Dent
+- Left: No_damage
+- Right: No_damage
+"
+20130087,Tata Motors,Punch,2024,9000,Petrol,Automatic,870000,1,Brown,20130087_1,20130087_2,20130087_3,20130087_4,no_damage,no_damage,dent,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: Dent
+- Right: No_damage
+"
+20130088,Tata Motors,Punch,2024,3889,Cng,Manual,1070000,1,Grey,20130088_1,20130088_2,20130088_3,20130088_4,no_damage,no_damage,no_damage,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: No_damage
+"
+20130089,Tata Motors,Altroz,2020,50000,Petrol,Manual,600000,1,White,20130089_1,20130089_2,20130089_3,20130089_4,scratch,no_damage,no_damage,no_damage,"
+Damage Summary:
+- Front: Scratch
+- Back: No_damage
+- Left: No_damage
+- Right: No_damage
+"
+20130090,Tata Motors,Altroz,2020,49999,Petrol,Manual,700000,1,Grey,20130090_1,20130090_2,20130090_3,20130090_4,no_damage,no_damage,scratch,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: Scratch
+- Right: No_damage
+"
+20130091,Tata Motors,Altroz,2020,98000,Diesel,Manual,525000,1,Grey,20130091_1,20130091_2,20130091_3,20130091_4,no_damage,no_damage,no_damage,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: No_damage
+"
+20130092,Tata Motors,Altroz,2021,46000,Diesel,Manual,785000,1,Red,20130092_1,20130092_2,20130092_3,20130092_4,no_damage,no_damage,dent,dent,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: Dent
+- Right: Dent
+"
+20130093,Tata Motors,Altroz,2021,35213,Petrol,Manual,595000,1,Red,20130093_1,20130093_2,20130093_3,20130093_4,no_damage,no_damage,no_damage,dent,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: Dent
+"
+20130094,Tata Motors,Altroz,2021,59000,Petrol,Manual,750000,1,Grey,20130094_1,20130094_2,20130094_3,20130094_4,no_damage,no_damage,no_damage,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: No_damage
+"
+20130095,Tata Motors,Altroz,2021,62290,Diesel,Manual,575000,1,Gold,20130095_1,20130095_2,20130095_3,20130095_4,no_damage,dent,no_damage,dent,"
+Damage Summary:
+- Front: No_damage
+- Back: Dent
+- Left: No_damage
+- Right: Dent
+"
+20130096,Tata Motors,Altroz,2022,32794,Petrol,Manual,800000,1,Red,20130096_1,20130096_2,20130096_3,20130096_4,no_damage,no_damage,no_damage,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: No_damage
+"
+20130097,Tata Motors,Altroz,2022,26283,Petrol,Manual,765000,1,White,20130097_1,20130097_2,20130097_3,20130097_4,no_damage,no_damage,dent,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: Dent
+- Right: No_damage
+"
+20130098,Tata Motors,Altroz,2023,65000,Diesel,Manual,649000,1,Red,20130098_1,20130098_2,20130098_3,20130098_4,no_damage,no_damage,no_damage,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: No_damage
+"
+20130099,Tata Motors,Altroz,2023,23000,Diesel,Manual,780000,1,Grey,20130099_1,20130099_2,20130099_3,20130099_4,scratch,no_damage,no_damage,no_damage,"
+Damage Summary:
+- Front: Scratch
+- Back: No_damage
+- Left: No_damage
+- Right: No_damage
+"
+20001,Toyota,Innova Crysta,2016,76900,Diesel,Automatic,1795000,1,Silver,20001_1,20001_2,20001_3,20001_4,no_damage,no_damage,no_damage,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: No_damage
+"
+20002,Toyota,Innova Crysta,2016,116000,Diesel,Automatic,1650000,1,Maroon,20002_1,20002_2,20002_3,20002_4,no_damage,no_damage,dent,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: Dent
+- Right: No_damage
+"
+20003,Toyota,Innova Crysta,2016,152000,Diesel,Automatic,1720000,2,White,20003_1,20003_2,20003_3,20003_4,no_damage,dent,no_damage,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: Dent
+- Left: No_damage
+- Right: No_damage
+"
+20004,Toyota,Innova Crysta,2016,200000,Diesel,Manual,1790000,1,White,20004_1,20004_2,20004_3,20004_4,no_damage,no_damage,dent,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: Dent
+- Right: No_damage
+"
+20005,Toyota,Innova Crysta,2016,156000,Diesel,Automatic,1300000,2,Grey,20005_1,20005_2,20005_3,20005_4,scratch,no_damage,scratch,no_damage,"
+Damage Summary:
+- Front: Scratch
+- Back: No_damage
+- Left: Scratch
+- Right: No_damage
+"
+20006,Toyota,Innova Crysta,2016,115000,Diesel,Manual,1625000,1,Silver,20006_1,20006_2,20006_3,20006_4,scratch,no_damage,no_damage,dent,"
+Damage Summary:
+- Front: Scratch
+- Back: No_damage
+- Left: No_damage
+- Right: Dent
+"
+20007,Toyota,Innova Crysta,2016,110458,Diesel,Automatic,1700000,1,Silver,20007_1,20007_2,20007_3,20007_4,no_damage,no_damage,no_damage,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: No_damage
+"
+20008,Toyota,Innova Crysta,2016,97987,Diesel,Automatic,1575000,1,Black,20008_1,20008_2,20008_3,20008_4,no_damage,no_damage,no_damage,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: No_damage
+"
+20009,Toyota,Innova Crysta,2017,102000,Diesel,Automatic,1725000,1,White,20009_1,20009_2,20009_3,20009_4,scratch,no_damage,no_damage,no_damage,"
+Damage Summary:
+- Front: Scratch
+- Back: No_damage
+- Left: No_damage
+- Right: No_damage
+"
+20010,Toyota,Innova Crysta,2017,75000,Diesel,Manual,1845000,1,Maroon,20010_1,20010_2,20010_3,20010_4,no_damage,no_damage,no_damage,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: No_damage
+"
+20011,Toyota,Innova Crysta,2017,134000,Diesel,Manual,1450000,1,Grey,20011_1,20011_2,20011_3,20011_4,no_damage,no_damage,no_damage,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: No_damage
+"
+20012,Toyota,Innova Crysta,2017,142000,Diesel,Manual,1490000,1,Silver,20012_1,20012_2,20012_3,20012_4,no_damage,no_damage,dent,dent,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: Dent
+- Right: Dent
+"
+20013,Toyota,Innova Crysta,2017,166700,Diesel,Manual,1800000,1,Grey,20013_1,20013_2,20013_3,20013_4,scratch,no_damage,no_damage,dent,"
+Damage Summary:
+- Front: Scratch
+- Back: No_damage
+- Left: No_damage
+- Right: Dent
+"
+20014,Toyota,Innova Crysta,2017,80000,Diesel,Automatic,1650000,1,White,20014_1,20014_2,20014_3,20014_4,no_damage,no_damage,scratch,scratch,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: Scratch
+- Right: Scratch
+"
+20015,Toyota,Innova Crysta,2017,150678,Diesel,Manual,1600000,1,Maroon,20015_1,20015_2,20015_3,20015_4,dent,no_damage,no_damage,no_damage,"
+Damage Summary:
+- Front: Dent
+- Back: No_damage
+- Left: No_damage
+- Right: No_damage
+"
+20016,Toyota,Innova Crysta,2017,68000,Diesel,Manual,2000000,1,White,20016_1,20016_2,20016_3,20016_4,no_damage,no_damage,no_damage,dent,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: Dent
+"
+20017,Toyota,Innova Crysta,2017,170000,Diesel,Manual,1540000,2,White,20017_1,20017_2,20017_3,20017_4,no_damage,no_damage,no_damage,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: No_damage
+"
+20018,Toyota,Innova Crysta,2017,78423,Diesel,Automatic,1795000,1,White,20018_1,20018_2,20018_3,20018_4,no_damage,no_damage,no_damage,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: No_damage
+"
+20019,Toyota,Innova Crysta,2017,114529,Diesel,Manual,1550000,1,Maroon,20019_1,20019_2,20019_3,20019_4,no_damage,scratch,no_damage,scratch,"
+Damage Summary:
+- Front: No_damage
+- Back: Scratch
+- Left: No_damage
+- Right: Scratch
+"
+20020,Toyota,Innova Crysta,2017,143000,Diesel,Manual,1625000,1,Silver,20020_1,20020_2,20020_3,20020_4,no_damage,no_damage,no_damage,dent,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: Dent
+"
+20021,Toyota,Innova Crysta,2017,170000,Diesel,Manual,1825000,1,Maroon,20021_1,20021_2,20021_3,20021_4,no_damage,no_damage,no_damage,scratch,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: Scratch
+"
+20022,Toyota,Innova Crysta,2017,99638,Diesel,Manual,1850000,1,Silver,20022_1,20022_2,20022_3,20022_4,no_damage,no_damage,dent,scratch,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: Dent
+- Right: Scratch
+"
+20023,Toyota,Innova Crysta,2017,153070,Diesel,Manual,1550000,1,Maroon,20023_1,20023_2,20023_3,20023_4,no_damage,no_damage,scratch,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: Scratch
+- Right: No_damage
+"
+20024,Toyota,Innova Crysta,2018,118500,Diesel,Automatic,1845000,1,Silver,20024_1,20024_2,20024_3,20024_4,no_damage,no_damage,no_damage,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: No_damage
+"
+20025,Toyota,Innova Crysta,2018,175852,Diesel,Manual,1875000,1,White,20025_1,20025_2,20025_3,20025_4,no_damage,dent,no_damage,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: Dent
+- Left: No_damage
+- Right: No_damage
+"
+20026,Toyota,Innova Crysta,2018,118000,Diesel,Automatic,1810000,1,Silver,20026_1,20026_2,20026_3,20026_4,no_damage,no_damage,no_damage,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: No_damage
+"
+20027,Toyota,Innova Crysta,2018,101471,Diesel,Manual,1900000,1,Silver,20027_1,20027_2,20027_3,20027_4,no_damage,no_damage,no_damage,scratch,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: Scratch
+"
+20028,Toyota,Innova Crysta,2018,167196,Diesel,Automatic,2050000,1,White,20028_1,20028_2,20028_3,20028_4,no_damage,no_damage,dent,dent,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: Dent
+- Right: Dent
+"
+20029,Toyota,Innova Crysta,2018,146970,Diesel,Manual,2195000,1,White,20029_1,20029_2,20029_3,20029_4,no_damage,no_damage,no_damage,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: No_damage
+"
+20030,Toyota,Innova Crysta,2018,229000,Diesel,Automatic,1699000,1,White,20030_1,20030_2,20030_3,20030_4,no_damage,no_damage,no_damage,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: No_damage
+"
+20031,Toyota,Innova Crysta,2019,153852,Diesel,Automatic,1875000,1,White,20031_1,20031_2,20031_3,20031_4,no_damage,no_damage,scratch,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: Scratch
+- Right: No_damage
+"
+20032,Toyota,Innova Crysta,2019,54268,Diesel,Automatic,2200000,1,Silver,20032_1,20032_2,20032_3,20032_4,no_damage,no_damage,no_damage,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: No_damage
+"
+20033,Toyota,Innova Crysta,2019,134000,Diesel,Manual,1695000,1,Silver,20033_1,20033_2,20033_3,20033_4,no_damage,no_damage,no_damage,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: No_damage
+"
+20034,Toyota,Innova Crysta,2019,121500,Diesel,Automatic,2250000,1,Maroon,20034_1,20034_2,20034_3,20034_4,no_damage,no_damage,no_damage,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: No_damage
+"
+20035,Toyota,Innova Crysta,2019,131000,Diesel,Manual,1775000,1,Silver,20035_1,20035_2,20035_3,20035_4,no_damage,no_damage,no_damage,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: No_damage
+"
+20036,Toyota,Innova Crysta,2019,132000,Diesel,Manual,1775000,1,Silver,20036_1,20036_2,20036_3,20036_4,no_damage,no_damage,scratch,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: Scratch
+- Right: No_damage
+"
+20037,Toyota,Innova Crysta,2019,140000,Diesel,Automatic,1975000,1,Silver,20037_1,20037_2,20037_3,20037_4,no_damage,no_damage,dent,dent,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: Dent
+- Right: Dent
+"
+20038,Toyota,Innova Crysta,2019,63000,Diesel,Automatic,2345000,1,White,20038_1,20038_2,20038_3,20038_4,no_damage,no_damage,scratch,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: Scratch
+- Right: No_damage
+"
+20039,Toyota,Innova Crysta,2019,100000,Diesel,Automatic,2150000,1,White,20039_1,20039_2,20039_3,20039_4,no_damage,no_damage,no_damage,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: No_damage
+"
+20040,Toyota,Innova Crysta,2019,134000,Diesel,Manual,1650000,1,White,20040_1,20040_2,20040_3,20040_4,no_damage,no_damage,no_damage,scratch,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: Scratch
+"
+20041,Toyota,Innova Crysta,2020,89623,Diesel,Manual,2250000,1,Silver,20041_1,20041_2,20041_3,20041_4,no_damage,scratch,dent,scratch,"
+Damage Summary:
+- Front: No_damage
+- Back: Scratch
+- Left: Dent
+- Right: Scratch
+"
+20042,Toyota,Innova Crysta,2020,32000,Diesel,Manual,1845000,1,White,20042_1,20042_2,20042_3,20042_4,no_damage,no_damage,scratch,scratch,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: Scratch
+- Right: Scratch
+"
+20043,Toyota,Innova Crysta,2020,176000,Diesel,Manual,2175000,1,White,20043_1,20043_2,20043_3,20043_4,scratch,dent,no_damage,no_damage,"
+Damage Summary:
+- Front: Scratch
+- Back: Dent
+- Left: No_damage
+- Right: No_damage
+"
+20044,Toyota,Innova Crysta,2020,115000,Diesel,Manual,2150000,1,White,20044_1,20044_2,20044_3,20044_4,no_damage,no_damage,no_damage,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: No_damage
+"
+20045,Toyota,Innova Crysta,2020,207000,Diesel,Manual,2070000,1,Grey,20045_1,20045_2,20045_3,20045_4,no_damage,no_damage,no_damage,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: No_damage
+"
+20046,Toyota,Innova Crysta,2020,102000,Diesel,Automatic,2350000,1,Silver,20046_1,20046_2,20046_3,20046_4,no_damage,no_damage,no_damage,scratch,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: Scratch
+"
+20047,Toyota,Innova Crysta,2020,39000,Petrol,Automatic,2650000,1,White,20047_1,20047_2,20047_3,20047_4,no_damage,no_damage,no_damage,dent,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: Dent
+"
+20048,Toyota,Innova Crysta,2020,109900,Diesel,Automatic,2478000,1,White,20048_1,20048_2,20048_3,20048_4,scratch,dent,no_damage,no_damage,"
+Damage Summary:
+- Front: Scratch
+- Back: Dent
+- Left: No_damage
+- Right: No_damage
+"
+20049,Toyota,Innova Crysta,2020,95000,Diesel,Automatic,2395000,1,White,20049_1,20049_2,20049_3,20049_4,no_damage,no_damage,scratch,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: Scratch
+- Right: No_damage
+"
+20050,Toyota,Innova Crysta,2020,76000,Diesel,Manual,2195000,1,Silver,20050_1,20050_2,20050_3,20050_4,no_damage,no_damage,no_damage,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: No_damage
+"
+20051,Toyota,Innova Crysta,2020,176578,Diesel,Manual,2175000,1,White,20051_1,20051_2,20051_3,20051_4,no_damage,no_damage,no_damage,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: No_damage
+"
+20052,Toyota,Innova Crysta,2020,39000,Petrol,Automatic,2450000,1,Silver,20052_1,20052_2,20052_3,20052_4,no_damage,no_damage,no_damage,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: No_damage
+"
+20053,Toyota,Innova Crysta,2021,122000,Diesel,Manual,2085000,1,White,20053_1,20053_2,20053_3,20053_4,no_damage,no_damage,no_damage,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: No_damage
+"
+20054,Toyota,Innova Crysta,2021,123400,Diesel,Manual,2100000,1,White,20054_1,20054_2,20054_3,20054_4,no_damage,no_damage,scratch,scratch,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: Scratch
+- Right: Scratch
+"
+20055,Toyota,Innova Crysta,2021,72882,Diesel,Manual,2500000,1,White,20055_1,20055_2,20055_3,20055_4,no_damage,no_damage,no_damage,dent,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: Dent
+"
+20056,Toyota,Innova Crysta,2021,95000,Diesel,Manual,2250000,1,Maroon,20056_1,20056_2,20056_3,20056_4,scratch,no_damage,dent,dent,"
+Damage Summary:
+- Front: Scratch
+- Back: No_damage
+- Left: Dent
+- Right: Dent
+"
+20057,Toyota,Innova Crysta,2021,64000,Diesel,Manual,2150000,1,White,20057_1,20057_2,20057_3,20057_4,no_damage,no_damage,no_damage,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: No_damage
+"
+20058,Toyota,Innova Crysta,2021,120000,Diesel,Manual,2275000,1,Silver,20058_1,20058_2,20058_3,20058_4,no_damage,no_damage,no_damage,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: No_damage
+"
+20059,Toyota,Innova Crysta,2021,40628,Diesel,Manual,2000000,1,Black,20059_1,20059_2,20059_3,20059_4,no_damage,no_damage,no_damage,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: No_damage
+"
+20060,Toyota,Innova Crysta,2021,75523,Diesel,Manual,1900000,2,White,20060_1,20060_2,20060_3,20060_4,no_damage,no_damage,no_damage,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: No_damage
+"
+20061,Toyota,Innova Crysta,2021,110000,Diesel,Manual,1850000,1,Silver,20061_1,20061_2,20061_3,20061_4,no_damage,dent,no_damage,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: Dent
+- Left: No_damage
+- Right: No_damage
+"
+20062,Toyota,Innova Crysta,2021,119984,Diesel,Automatic,2575000,1,White,20062_1,20062_2,20062_3,20062_4,no_damage,no_damage,no_damage,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: No_damage
+"
+20063,Toyota,Innova Crysta,2021,74157,Diesel,Automatic,2650000,1,Silver,20063_1,20063_2,20063_3,20063_4,no_damage,no_damage,dent,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: Dent
+- Right: No_damage
+"
+20064,Toyota,Innova Crysta,2021,42500,Diesel,Automatic,1980000,2,Grey,20064_1,20064_2,20064_3,20064_4,no_damage,no_damage,no_damage,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: No_damage
+"
+20065,Toyota,Innova Crysta,2021,95000,Diesel,Automatic,2300000,1,White,20065_1,20065_2,20065_3,20065_4,no_damage,no_damage,scratch,scratch,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: Scratch
+- Right: Scratch
+"
+20066,Toyota,Innova Crysta,2021,72882,Diesel,Manual,2500000,1,White,20066_1,20066_2,20066_3,20066_4,no_damage,no_damage,no_damage,dent,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: Dent
+"
+20067,Toyota,Innova Crysta,2022,104000,Diesel,Automatic,2575000,1,White,20067_1,20067_2,20067_3,20067_4,scratch,no_damage,no_damage,no_damage,"
+Damage Summary:
+- Front: Scratch
+- Back: No_damage
+- Left: No_damage
+- Right: No_damage
+"
+20068,Toyota,Innova Crysta,2022,41942,Petrol,Automatic,2600000,1,White,20068_1,20068_2,20068_3,20068_4,no_damage,no_damage,no_damage,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: No_damage
+"
+20069,Toyota,Innova Crysta,2022,106996,Diesel,Automatic,2650000,1,White,20069_1,20069_2,20069_3,20069_4,no_damage,dent,no_damage,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: Dent
+- Left: No_damage
+- Right: No_damage
+"
+20070,Toyota,Innova Crysta,2022,45000,Diesel,Automatic,2995000,1,Silver,20070_1,20070_2,20070_3,20070_4,no_damage,no_damage,no_damage,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: No_damage
+"
+20071,Toyota,Innova Crysta,2022,39000,Petrol,Automatic,2450000,1,Silver,20071_1,20071_2,20071_3,20071_4,no_damage,no_damage,no_damage,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: No_damage
+"
+20072,Toyota,Innova Crysta,2022,70585,Diesel,Automatic,2300000,1,Black,20072_1,20072_2,20072_3,20072_4,no_damage,no_damage,no_damage,scratch,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: Scratch
+"
+20073,Toyota,Innova Crysta,2022,20000,Diesel,Manual,2695000,1,White,20073_1,20073_2,20073_3,20073_4,no_damage,no_damage,no_damage,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: No_damage
+"
+20074,Toyota,Innova Crysta,2022,105000,Diesel,Automatic,2280000,1,Silver,20074_1,20074_2,20074_3,20074_4,no_damage,no_damage,dent,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: Dent
+- Right: No_damage
+"
+20075,Toyota,Innova Crysta,2023,32500,Diesel,Manual,3150000,1,Silver,20075_1,20075_2,20075_3,20075_4,no_damage,no_damage,no_damage,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: No_damage
+"
+20076,Toyota,Innova Crysta,2023,51664,Diesel,Manual,2875000,1,White,20076_1,20076_2,20076_3,20076_4,no_damage,no_damage,no_damage,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: No_damage
+"
+20077,Toyota,Fortuner,2017,104893,Diesel,Automatic,2950000,1,White,20077_1,20077_2,20077_3,20077_4,no_damage,no_damage,no_damage,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: No_damage
+"
+20078,Toyota,Fortuner,2017,112000,Diesel,Automatic,2650000,1,White,20078_1,20078_2,20078_3,20078_4,scratch,no_damage,no_damage,no_damage,"
+Damage Summary:
+- Front: Scratch
+- Back: No_damage
+- Left: No_damage
+- Right: No_damage
+"
+20079,Toyota,Fortuner,2018,94945,Diesel,Automatic,3275000,1,White,20079_1,20079_2,20079_3,20079_4,no_damage,no_damage,no_damage,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: No_damage
+"
+20080,Toyota,Fortuner,2018,62600,Diesel,Automatic,3250000,1,White,20080_1,20080_2,20080_3,20080_4,no_damage,no_damage,no_damage,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: No_damage
+"
+20081,Toyota,Fortuner,2018,90300,Diesel,Automatic,3145000,1,White,20081_1,20081_2,20081_3,20081_4,no_damage,no_damage,no_damage,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: No_damage
+"
+20082,Toyota,Fortuner,2018,62000,Diesel,Automatic,3175000,1,White,20082_1,20082_2,20082_3,20082_4,no_damage,no_damage,no_damage,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: No_damage
+"
+20083,Toyota,Fortuner,2018,72000,Diesel,Manual,3985000,1,White,20083_1,20083_2,20083_3,20083_4,no_damage,no_damage,no_damage,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: No_damage
+"
+20084,Toyota,Fortuner,2018,88000,Diesel,Automatic,3395000,1,White,20084_1,20084_2,20084_3,20084_4,no_damage,no_damage,dent,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: Dent
+- Right: No_damage
+"
+20085,Toyota,Fortuner,2018,164000,Diesel,Automatic,2850000,2,White,20085_1,20085_2,20085_3,20085_4,dent,no_damage,no_damage,no_damage,"
+Damage Summary:
+- Front: Dent
+- Back: No_damage
+- Left: No_damage
+- Right: No_damage
+"
+20086,Toyota,Fortuner,2018,74400,Diesel,Automatic,2300000,1,Maroon,20086_1,20086_2,20086_3,20086_4,no_damage,no_damage,scratch,scratch,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: Scratch
+- Right: Scratch
+"
+20087,Toyota,Fortuner,2018,181000,Diesel,Manual,2800000,2,White,20087_1,20087_2,20087_3,20087_4,no_damage,no_damage,no_damage,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: No_damage
+"
+20088,Toyota,Fortuner,2019,112000,Diesel,Manual,2950000,1,White,20088_1,20088_2,20088_3,20088_4,no_damage,no_damage,no_damage,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: No_damage
+"
+20089,Toyota,Fortuner,2019,120000,Diesel,Manual,2985000,1,White,20089_1,20089_2,20089_3,20089_4,no_damage,no_damage,no_damage,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: No_damage
+"
+20090,Toyota,Fortuner,2019,60996,Diesel,Automatic,3350000,1,White,20090_1,20090_2,20090_3,20090_4,no_damage,no_damage,no_damage,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: No_damage
+"
+20091,Toyota,Fortuner,2020,152101,Diesel,Automatic,3450000,1,White,20091_1,20091_2,20091_3,20091_4,no_damage,no_damage,no_damage,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: No_damage
+"
+20092,Toyota,Fortuner,2020,129000,Diesel,Manual,3250000,1,Maroon,20092_1,20092_2,20092_3,20092_4,no_damage,dent,no_damage,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: Dent
+- Left: No_damage
+- Right: No_damage
+"
+20093,Toyota,Fortuner,2020,142531,Diesel,Manual,3200000,1,Black,20093_1,20093_2,20093_3,20093_4,no_damage,no_damage,no_damage,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: No_damage
+"
+20094,Toyota,Fortuner,2021,56285,Diesel,Automatic,3775000,1,White,20094_1,20094_2,20094_3,20094_4,no_damage,no_damage,no_damage,dent,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: Dent
+"
+20095,Toyota,Fortuner,2022,25000,Diesel,Automatic,4000000,1,White,20095_1,20095_2,20095_3,20095_4,no_damage,no_damage,no_damage,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: No_damage
+"
+20096,Toyota,Fortuner,2022,38074,Diesel,Manual,4050000,1,White,20096_1,20096_2,20096_3,20096_4,no_damage,no_damage,scratch,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: Scratch
+- Right: No_damage
+"
+20097,Toyota,Fortuner,2022,45298,Diesel,Manual,3650000,1,White,20097_1,20097_2,20097_3,20097_4,no_damage,no_damage,no_damage,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: No_damage
+"
+20098,Toyota,Fortuner,2022,54138,Diesel,Manual,3675000,1,Black,20098_1,20098_2,20098_3,20098_4,no_damage,no_damage,dent,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: Dent
+- Right: No_damage
+"
+20099,Toyota,Fortuner,2022,65000,Diesel,Manual,4475000,1,White,20099_1,20099_2,20099_3,20099_4,no_damage,no_damage,no_damage,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: No_damage
+"
+20100,Toyota,Fortuner,2023,43582,Diesel,Automatic,4250000,1,Black,20100_1,20100_2,20100_3,20100_4,no_damage,no_damage,no_damage,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: No_damage
+"
+20101,Toyota,Fortuner,2023,52000,Diesel,Automatic,4100000,1,Black,20101_1,20101_2,20101_3,20101_4,no_damage,no_damage,no_damage,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: No_damage
+"
+20102,Toyota,Fortuner,2023,25000,Diesel,Manual,4600000,1,Black,20102_1,20102_2,20102_3,20102_4,no_damage,no_damage,no_damage,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: No_damage
+"
+20103,Toyota,Fortuner,2023,19400,Diesel,Manual,4049999,1,White,20103_1,20103_2,20103_3,20103_4,scratch,no_damage,no_damage,dent,"
+Damage Summary:
+- Front: Scratch
+- Back: No_damage
+- Left: No_damage
+- Right: Dent
+"
+11001,Kia,Seltos,2019,81843,Petrol,Manual,1275000,1,White,11001_1,11001_2,11001_3,11001_4,no_damage,no_damage,no_damage,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: No_damage
+"
+11002,Kia,Seltos,2019,79566,Diesel,Manual,1345000,1,Red,11002_1,11002_2,11002_3,11002_4,no_damage,no_damage,no_damage,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: No_damage
+"
+11003,Kia,Seltos,2019,55000,Petrol,Manual,1145000,1,Red,11003_1,11003_2,11003_3,11003_4,scratch,no_damage,scratch,scratch,"
+Damage Summary:
+- Front: Scratch
+- Back: No_damage
+- Left: Scratch
+- Right: Scratch
+"
+11004,Kia,Seltos,2019,68000,Diesel,Manual,975000,1,Orange,11004_1,11004_2,11004_3,11004_4,no_damage,dent,dent,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: Dent
+- Left: Dent
+- Right: No_damage
+"
+11005,Kia,Seltos,2019,178000,Diesel,Manual,1175000,1,Orange,11005_1,11005_2,11005_3,11005_4,no_damage,no_damage,no_damage,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: No_damage
+"
+11006,Kia,Seltos,2020,46000,Petrol,Automatic,1475000,1,Black,11006_1,11006_2,11006_3,11006_4,scratch,no_damage,no_damage,scratch,"
+Damage Summary:
+- Front: Scratch
+- Back: No_damage
+- Left: No_damage
+- Right: Scratch
+"
+11007,Kia,Seltos,2020,52000,Petrol,Manual,1145000,1,Red,11007_1,11007_2,11007_3,11007_4,scratch,scratch,scratch,scratch,"
+Damage Summary:
+- Front: Scratch
+- Back: Scratch
+- Left: Scratch
+- Right: Scratch
+"
+11008,Kia,Seltos,2020,60000,Petrol,Automatic,1145000,1,Red,11008_1,11008_2,11008_3,11008_4,no_damage,no_damage,no_damage,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: No_damage
+"
+11009,Kia,Seltos,2020,103000,Diesel,Manual,1125000,1,Red,11009_1,11009_2,11009_3,11009_4,no_damage,scratch,no_damage,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: Scratch
+- Left: No_damage
+- Right: No_damage
+"
+11010,Kia,Seltos,2020,66000,Diesel,Automatic,1240000,1,White,11010_1,11010_2,11010_3,11010_4,no_damage,no_damage,no_damage,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: No_damage
+"
+11011,Kia,Seltos,2020,44000,Diesel,Manual,1150000,1,White,11011_1,11011_2,11011_3,11011_4,no_damage,no_damage,scratch,scratch,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: Scratch
+- Right: Scratch
+"
+11012,Kia,Seltos,2021,42000,Petrol,Manual,1295000,1,Silver,11012_1,11012_2,11012_3,11012_4,scratch,no_damage,dent,dent,"
+Damage Summary:
+- Front: Scratch
+- Back: No_damage
+- Left: Dent
+- Right: Dent
+"
+11013,Kia,Seltos,2021,58845,Diesel,Manual,1100000,1,Silver,11013_1,11013_2,11013_3,11013_4,no_damage,no_damage,scratch,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: Scratch
+- Right: No_damage
+"
+11014,Kia,Seltos,2021,58993,Petrol,Manual,1350000,1,White,11014_1,11014_2,11014_3,11014_4,no_damage,no_damage,scratch,scratch,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: Scratch
+- Right: Scratch
+"
+11015,Kia,Seltos,2021,39000,Diesel,Automatic,1590000,1,Red,11015_1,11015_2,11015_3,11015_4,no_damage,no_damage,no_damage,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: No_damage
+"
+11016,Kia,Seltos,2021,30017,Petrol,Automatic,1675000,1,Grey,11016_1,11016_2,11016_3,11016_4,no_damage,no_damage,no_damage,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: No_damage
+"
+11017,Kia,Seltos,2021,48000,Diesel,Automatic,1650000,1,White,11017_1,11017_2,11017_3,11017_4,no_damage,no_damage,dent,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: Dent
+- Right: No_damage
+"
+11018,Kia,Seltos,2021,82176,Diesel,Manual,1300000,1,White,11018_1,11018_2,11018_3,11018_4,no_damage,no_damage,no_damage,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: No_damage
+"
+11019,Kia,Seltos,2021,44021,Petrol,Automatic,1645000,1,Black,11019_1,11019_2,11019_3,11019_4,no_damage,no_damage,no_damage,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: No_damage
+"
+11020,Kia,Seltos,2021,85973,Diesel,Manual,1350000,1,White,11020_1,11020_2,11020_3,11020_4,no_damage,no_damage,scratch,scratch,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: Scratch
+- Right: Scratch
+"
+11021,Kia,Seltos,2021,44319,Petrol,Automatic,1300000,1,Red,11021_1,11021_2,11021_3,11021_4,no_damage,scratch,scratch,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: Scratch
+- Left: Scratch
+- Right: No_damage
+"
+11022,Kia,Seltos,2022,28000,Diesel,Automatic,1775000,1,Grey,11022_1,11022_2,11022_3,11022_4,dent,no_damage,no_damage,dent,"
+Damage Summary:
+- Front: Dent
+- Back: No_damage
+- Left: No_damage
+- Right: Dent
+"
+11023,Kia,Seltos,2022,28385,Diesel,Automatic,1835000,1,Grey,11023_1,11023_2,11023_3,11023_4,no_damage,no_damage,no_damage,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: No_damage
+"
+11024,Kia,Seltos,2022,45000,Petrol,Automatic,1595000,1,White,11024_1,11024_2,11024_3,11024_4,no_damage,no_damage,no_damage,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: No_damage
+"
+11025,Kia,Seltos,2022,87200,Diesel,Automatic,1550000,1,White,11025_1,11025_2,11025_3,11025_4,no_damage,no_damage,no_damage,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: No_damage
+"
+11026,Kia,Seltos,2022,37000,Petrol,Manual,1490000,1,Red,11026_1,11026_2,11026_3,11026_4,no_damage,no_damage,no_damage,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: No_damage
+"
+11027,Kia,Seltos,2022,23000,Petrol,Automatic,1400000,1,Red,11027_1,11027_2,11027_3,11027_4,no_damage,no_damage,no_damage,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: No_damage
+"
+11028,Kia,Seltos,2022,50495,Diesel,Manual,1535000,1,White,11028_1,11028_2,11028_3,11028_4,no_damage,no_damage,dent,dent,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: Dent
+- Right: Dent
+"
+11029,Kia,Seltos,2022,66500,Diesel,Manual,1375000,2,White,11029_1,11029_2,11029_3,11029_4,no_damage,no_damage,scratch,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: Scratch
+- Right: No_damage
+"
+11030,Kia,Seltos,2023,5800,Petrol,Automatic,1675000,1,Red,11030_1,11030_2,11030_3,11030_4,no_damage,no_damage,no_damage,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: No_damage
+"
+11031,Kia,Seltos,2023,17000,Diesel,Automatic,1600000,1,White,11031_1,11031_2,11031_3,11031_4,no_damage,no_damage,no_damage,dent,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: Dent
+"
+11032,Kia,Seltos,2023,2500,Petrol,Manual,1795000,1,Black,11032_1,11032_2,11032_3,11032_4,no_damage,no_damage,scratch,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: Scratch
+- Right: No_damage
+"
+11033,Kia,Seltos,2023,15200,Diesel,Automatic,1525000,1,Grey,11033_1,11033_2,11033_3,11033_4,no_damage,scratch,no_damage,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: Scratch
+- Left: No_damage
+- Right: No_damage
+"
+11034,Kia,Seltos,2023,27952,Diesel,Automatic,1820000,1,Black,11034_1,11034_2,11034_3,11034_4,no_damage,no_damage,no_damage,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: No_damage
+"
+11035,Kia,Seltos,2023,19300,Diesel,Automatic,1750000,1,Green,11035_1,11035_2,11035_3,11035_4,dent,no_damage,no_damage,no_damage,"
+Damage Summary:
+- Front: Dent
+- Back: No_damage
+- Left: No_damage
+- Right: No_damage
+"
+11036,Kia,Seltos,2024,18000,Diesel,Automatic,1995000,1,Black,11036_1,11036_2,11036_3,11036_4,no_damage,no_damage,no_damage,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: No_damage
+"
+11037,Kia,Sonet,2020,79000,Diesel,Manual,899000,1,White,11037_1,11037_2,11037_3,11037_4,no_damage,dent,scratch,scratch,"
+Damage Summary:
+- Front: No_damage
+- Back: Dent
+- Left: Scratch
+- Right: Scratch
+"
+11038,Kia,Sonet,2020,76853,Diesel,Manual,995000,1,Silver,11038_1,11038_2,11038_3,11038_4,no_damage,dent,scratch,dent,"
+Damage Summary:
+- Front: No_damage
+- Back: Dent
+- Left: Scratch
+- Right: Dent
+"
+11039,Kia,Sonet,2021,52248,Diesel,Automatic,1200000,1,Red,11039_1,11039_2,11039_3,11039_4,no_damage,no_damage,dent,scratch,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: Dent
+- Right: Scratch
+"
+11040,Kia,Sonet,2021,35000,Petrol,Automatic,975000,1,Red,11040_1,11040_2,11040_3,11040_4,no_damage,no_damage,scratch,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: Scratch
+- Right: No_damage
+"
+11041,Kia,Sonet,2021,54000,Petrol,Automatic,875000,1,White,11041_1,11041_2,11041_3,11041_4,no_damage,dent,no_damage,scratch,"
+Damage Summary:
+- Front: No_damage
+- Back: Dent
+- Left: No_damage
+- Right: Scratch
+"
+11042,Kia,Sonet,2021,86356,Diesel,Automatic,1265000,1,Red,11042_1,11042_2,11042_3,11042_4,no_damage,no_damage,no_damage,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: No_damage
+"
+11043,Kia,Sonet,2022,8000,Petrol,Manual,850000,1,White,11043_1,11043_2,11043_3,11043_4,no_damage,no_damage,no_damage,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: No_damage
+"
+11044,Kia,Sonet,2022,112120,Diesel,Manual,875000,2,White,11044_1,11044_2,11044_3,11044_4,no_damage,no_damage,scratch,scratch,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: Scratch
+- Right: Scratch
+"
+11045,Kia,Sonet,2022,89000,Petrol,Manual,760000,2,White,11045_1,11045_2,11045_3,11045_4,no_damage,no_damage,scratch,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: Scratch
+- Right: No_damage
+"
+11046,Kia,Sonet,2022,79000,Diesel,Automatic,1260000,1,Black,11046_1,11046_2,11046_3,11046_4,no_damage,no_damage,no_damage,no_damage,"
+Damage Summary:
+- Front: No_damage
+- Back: No_damage
+- Left: No_damage
+- Right: No_damage
+"
